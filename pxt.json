@@ -1,6 +1,6 @@
 {
     "name": "Huskylens",
-    "version": "2.0.2",
+    "version": "1.0.2",
     "description": "",
     "dependencies": {
         "core": "*"
@@ -8,9 +8,11 @@
     "files": [
         "README.md",
         "huskylens.ts",
-        "_locales/zh-cn/Huskylens-strings.json",
         "i2c.cpp",
+        "_locales/zh-cn/Huskylens-strings.json",
         "_locales/zh-tw/Huskylens-strings.json",
+		"_locales/ru/Huskylens-jsdoc-strings.json",
+        "_locales/ru/Huskylens-strings.json",
         "shims.d.ts",
         "enums.d.ts"
     ],
