@@ -1,7 +1,7 @@
 {
     "name": "Huskylens",
-    "version": "1.0.2",
-    "description": "",
+    "version": "2.0.3",
+    "description": "Tr. on Ru",
     "dependencies": {
         "core": "*"
     },
