@@ -1,7 +1,7 @@
 {
     "name": "Huskylens",
-    "version": "2.0.7",
-    "description": "Tr. on Ru",
+    "version": "2.0.8",
+    "description": "Переведено на русский",
     "dependencies": {
         "core": "*"
     },

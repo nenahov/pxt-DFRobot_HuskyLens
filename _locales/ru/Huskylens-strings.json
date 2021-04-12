@@ -46,7 +46,7 @@
   "huskylens.takePhotoToSDCard|block": "сохранить %request на карту памяти",
   "huskylens.writeLearn1|block": "изучить ID %id",
   "huskylens.writeName|block": "называть ID %id как %name",
-  "huskylens.writeOSD|block": "показать надпись %name на экране: x %x y %y",
+  "huskylens.writeOSD|block": "показать текст %name на экране: x %x y %y",
   "huskylens|block": "HuskyLens",
   "protocolAlgorithm.ALGORITHM_COLOR_RECOGNITION|block": "распознавание цвета",
   "protocolAlgorithm.ALGORITHM_FACE_RECOGNITION|block": "распознавание лица",
